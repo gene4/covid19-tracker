@@ -1,7 +1,7 @@
 import React from "react";
 import { Circle, MapContainer, TileLayer, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import styles from "./map.module.css";
+import styles from "./Map.module.css";
 import numeral from "numeral";
 
 const casesTypeColors = {
